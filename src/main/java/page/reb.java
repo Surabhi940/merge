@@ -6,6 +6,7 @@ public class reb {
 	{
 	
 	System.out.println("1st at reb");
+	System.out.println("2nd at reb");
 	}
 	
 
